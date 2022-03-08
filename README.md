@@ -4,7 +4,7 @@
 [![](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 
-#### 👨‍🎓 *Hello! I'm Moshe, a Computer Science student with specialization in Cybersecurity in Ariel University. (3rd year)*
+#### 👨‍🎓 *Hello! I'm Moshe, a Computer Science student with specialization in Cybersecurity in Ariel University.
 ##### 💬 Contact me:
 <a href="http://www.linkedin.com/in/moshe-crespin-476a681ba/" target="git"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="git"></a> <a href="mailto:moshec315@gmail.com" target="git"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="git"></a>
 
